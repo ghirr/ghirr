@@ -84,7 +84,7 @@ A passionate Web developer from Tunisia | Ghariani Islem
 
 ## ⚡GitHub Stats & Languages 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghirr&show_icons=true&theme=radical)](https://github.com/ghirr)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghirr&layout=compact&theme=radical&hide=css,html,scss,jupyter%20notebook,less,twig,assemby)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghirr&layout=compact&theme=radical&hide=css,html,scss,jupyter%20notebook,less,twig,assembly)
 
 ## 📈 GitHub Most
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghirr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
