@@ -3,7 +3,7 @@
 </div>
 
 # Hi, I'm Islem Ghariani ! 👋
-A passionate Web developer from Tunisia |IT student| Ghariani Islem
+A passionate Web developer from Tunisia | IT student | Ghariani Islem
 
 ![](https://komarev.com/ghpvc/?username=ghirr&color=dc143c)
 ## About Me 🙋‍♂️
