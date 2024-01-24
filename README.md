@@ -3,7 +3,7 @@
 </div>
 
 # Hi, I'm Islem Ghariani ! 👋
-A passionate Web developer from Tunisia | Ghariani Islem
+A passionate Web developer from Tunisia |IT student| Ghariani Islem
 
 ![](https://komarev.com/ghpvc/?username=ghirr&color=dc143c)
 ## About Me 🙋‍♂️
@@ -27,7 +27,7 @@ A passionate Web developer from Tunisia | Ghariani Islem
 
 
 
-## 🚀Technologies que je maîtrise :
+## 🚀Technologies I master :
 
 <p dir="auto">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer nofollow">
