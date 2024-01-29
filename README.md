@@ -20,9 +20,6 @@ A passionate Web developer from Tunisia | IT student | Ghariani Islem
   <a href="https://www.instagram.com/islemghariani/">
     <img style="width:70px;height:70px;" src="https://cdn-icons-png.flaticon.com/128/2504/2504918.png?uid=R33087487&ga=GA1.1.140665445.1701948779&semt=ais" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/ghirr.02">
-    <img style="width:70px;height:70px;" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" alt="Facebook">
-  </a>
 </div>
 
 
