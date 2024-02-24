@@ -42,11 +42,20 @@ A passionate Web developer from Tunisia | IT student | Ghariani Islem
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://camo.githubusercontent.com/4a09e2a2a46ff51d57bfe440ca3ff9ec4c2bf576bf5ab89fbd4044fcaf7e3086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript">
   </a>
+   <a href="https://www.python.org/doc/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  </a>
+  <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring">
+  </a>
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django">
   </a>
   <a href="https://angular.io/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
@@ -65,6 +74,12 @@ A passionate Web developer from Tunisia | IT student | Ghariani Islem
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle">
+  </a>
+   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
   </a>
 </p>
 
