@@ -87,7 +87,7 @@ A passionate Web developer from Tunisia | Software Engineering Student | Technic
 ## 🕹️ Tools 
 <p>
   <a href="https://git-scm.com/">
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" Style="width:80px;height:30px;"
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" Style="width:80px;height:30px;"
   </a>
       <a href="https://www.postman.com/">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" Style="width:80px;height:30px;"
