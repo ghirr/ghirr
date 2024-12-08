@@ -3,12 +3,12 @@
 </div>
 
 # Hi, I'm Islem Ghariani ! 👋
-A passionate Web developer from Tunisia | IT student | Ghariani Islem
+A passionate Web developer from Tunisia | Software Engineering Student | Technical Consultant at @ZUM-IT
 
 ![](https://komarev.com/ghpvc/?username=ghirr&color=dc143c)
 ## About Me 🙋‍♂️
 - 💻 I'm a very passionate student for Programming and Problem-Solving.
-- 🔭 Currently studying in 3rd Year.
+- 🔭 Currently studying in 1st Year.
 - 📫 How to reach me: <a href="mailto:islemghariani.dev@gmail.com"><img style="padding-top: 7px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 
@@ -37,10 +37,10 @@ A passionate Web developer from Tunisia | IT student | Ghariani Islem
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     </a>
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://camo.githubusercontent.com/69aa4c0504930e8ae0b89332cd45436b67c8842992bc55ad11d2f67bac4eaa64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" alt="Java">
+    <img src="(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://camo.githubusercontent.com/4a09e2a2a46ff51d57bfe440ca3ff9ec4c2bf576bf5ab89fbd4044fcaf7e3086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   </a>
    <a href="https://www.python.org/doc/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -64,13 +64,13 @@ A passionate Web developer from Tunisia | IT student | Ghariani Islem
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://camo.githubusercontent.com/6c62369c4e99b8a15e8bc2252842ba29e6af1a870849ba36b78e534304113437/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://camo.githubusercontent.com/4ae569342c64ecd9f0d7e7cbed78fffcca6a0f427e8efb4297c1d357dfb09074/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="MongoDB">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
