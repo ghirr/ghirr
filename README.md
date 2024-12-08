@@ -37,7 +37,7 @@ A passionate Web developer from Tunisia | Software Engineering Student | Technic
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     </a>
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
