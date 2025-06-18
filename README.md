@@ -1,5 +1,5 @@
 # Hi, I'm Islem Ghariani ! 👋
-A passionate Web developer from Tunisia | Software Engineering Student | Technical Consultant at @ZUM-IT
+A passionate Web developer from Tunisia | Software Engineering Student | Software Developer at @ZUM-IT
 
 ![](https://komarev.com/ghpvc/?username=ghirr&color=dc143c)
 ## About Me 🙋‍♂️
