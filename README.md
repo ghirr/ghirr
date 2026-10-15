@@ -7,7 +7,7 @@ Full-Stack Developer & DevOps | Cloud & Cybersecurity Engineering Student @ ESPR
 - 💻 Software & DevOps engineer at **ZUM-IT**, working with web development, ERP integrations, and AWS infrastructure.
 - 🎓 Studying Engineering in Cloud and Cybersecurity at **ESPRIT**.
 - 🌍 Languages: Arabic (native), French & English (professional).
-- 📫 Reach me: <a href="mailto:islemghariani.dev@gmail.com"><img style="padding-top: 7px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+- 📫 Reach me: <a href="mailto:islemghariani@outlook.com"><img style="padding-top: 7px;" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
 
 ## 🛠️ What I Can Do
 - 🌐 Build full-stack web apps with **Django REST Framework** and **Angular**
