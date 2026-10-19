@@ -1,8 +1,5 @@
 # Hi, I'm Islem Ghariani 👋
 Full-Stack Developer and DevOps engineer from Tunisia | 🇹🇳
-  <a style="margin-left:10px ">
-    <img style="width:70px;height:30px;margin-bottom:-10px;" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/120px-Flag_of_Tunisia.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" alt="Tunisia">
-  </a>
 
 ![](https://komarev.com/ghpvc/?username=ghirr&color=dc143c)
 
