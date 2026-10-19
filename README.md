@@ -1,5 +1,8 @@
 # Hi, I'm Islem Ghariani 👋
-Full-Stack Developer & DevOps | Cloud & Cybersecurity Engineering Student @ ESPRIT | Tunisia 🇹🇳
+Full-Stack Developer and DevOps engineer from Tunisia | 🇹🇳
+  <a style="margin-left:10px ">
+    <img style="width:70px;height:30px;margin-bottom:-10px;" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/120px-Flag_of_Tunisia.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" alt="Tunisia">
+  </a>
 
 ![](https://komarev.com/ghpvc/?username=ghirr&color=dc143c)
 
@@ -7,15 +10,14 @@ Full-Stack Developer & DevOps | Cloud & Cybersecurity Engineering Student @ ESPR
 - 💻 Software & DevOps engineer at **ZUM-IT**, working with web development, ERP integrations, and AWS infrastructure.
 - 🎓 Studying Engineering in Cloud and Cybersecurity at **ESPRIT**.
 - 🌍 Languages: Arabic (native), French & English (professional).
-- 📫 Reach me: <a href="mailto:islemghariani@outlook.com"><img style="padding-top: 7px;" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
+- 📫 Reach me: <a href="mailto:islemghariani@outlook.com"><img style="padding-top: 7px;margin-bottom:-10px" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
 
 ## 🛠️ What I Can Do
-- 🌐 Build full-stack web apps with **Django REST Framework** and **Angular**
+- 🌐 Build full-stack web apps with **Spring Boot** and **Angular**
 - ☁️ Deploy and manage multi-tenant infrastructure on **AWS**, with **Terraform** and monitoring via CloudWatch
 - 🐳 Containerize and orchestrate apps with **Docker** and **Kubernetes**
 - 🔗 Integrate systems through REST APIs, BODs, and XML/JSON/XSLT transformations (**Infor LN / ION**)
-- ☕ Develop backend services with **Java (Spring Boot)** and **Python**
-- 🔐 Implement secure authentication and authorization (JWT, role-based access)
+- ☕ Develop backend services with **Java (Spring Boot)** and **Python (Django)**
 
 ### Connect with me:
 <div style="display: inline-block; margin-right: 10px;">
